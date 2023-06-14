@@ -16,3 +16,5 @@ function App() {
 export default App;
 
 // Добавлен contextAPI
+// привязано к netlify через github
+// git push
